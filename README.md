@@ -1,5 +1,9 @@
-## Hi there 👋
+## 안녕하세요~ HIBI입니다:) 👋
 
+저는 아직 아무것도 모르는 감자...
+
+
+🙌 방문해주셔서 감사합니다!  
 <!--
 **hibii321/hibii321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
