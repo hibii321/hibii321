@@ -3,7 +3,8 @@
 저는 아직 아무것도 모르는 감자... 🥔   
 🌱 아직 공부 중
 
-
+PORTFOLIO
+https://www.notion.so/15b429deb408807b9274f0c6004d8b18?source=copy_link
 <!--
 **hibii321/hibii321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
